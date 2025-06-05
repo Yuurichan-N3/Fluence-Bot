@@ -1,0 +1,12 @@
+api:
+  base_url: "https://pointless-api.fluence.network/api/v1"
+  endpoints:
+    nonce: "/auth/nonce"
+    verify: "/auth/verify"
+    points: "/points/{address}"
+    referral: "/referrals/apply"
+    task: "/verify"
+delay:
+  task_min: 2
+  task_max: 3
+  iteration: 2

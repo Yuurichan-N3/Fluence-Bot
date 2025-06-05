@@ -1,0 +1,7 @@
+log:
+  colors:
+    success: green
+    error: red
+    info: yellow
+  language: japanese
+  level: n3

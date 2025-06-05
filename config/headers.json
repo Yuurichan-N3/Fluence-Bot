@@ -1,0 +1,16 @@
+{
+  "Content-Type": "application/json",
+  "Accept": "application/json, text/plain, */*",
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",
+  "Accept-Encoding": "gzip, deflate, br, zstd",
+  "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+  "Origin": "https://pointless.fluence.network",
+  "Referer": "https://pointless.fluence.network/",
+  "Priority": "u=1, i",
+  "Sec-Ch-Ua": "\"Microsoft Edge\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+  "Sec-Ch-Ua-Mobile": "?0",
+  "Sec-Ch-Ua-Platform": "\"Windows\"",
+  "Sec-Fetch-Dest": "empty",
+  "Sec-Fetch-Mode": "cors",
+  "Sec-Fetch-Site": "same-site"
+}
